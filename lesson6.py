@@ -1,3 +1,4 @@
+
 """
 # Problem 0
 dates_of_birth = {3, 10, 11, 13, 31, 21, 1, 10, 3, 5, 6, 6}
@@ -73,3 +74,12 @@ farm1 = {'Panda', 'Cheetah', 'Horse', 'Lion', 'Camel', 'Donkey'}
 farm2 = {'Gorilla', 'Tiger', 'Dog', 'Cat', 'Cheetah', 'Camel', 'Donkey'}
 print(farm1.difference(farm2))
 """
+
+# a = [1, 0, 2, 3, 4, 0, 6, 7, 0]
+# while  True:
+#     for i in a:
+#         if i > 0:
+#             a.remove(i)
+#         if i == 0:
+#             break
+# print(a)
